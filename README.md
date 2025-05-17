@@ -1,4 +1,4 @@
-## 安裝一些套件
+## 樹梅派安裝一些套件
 sudo apt update  
 sudo apt install python3-opencv python3-flask python3-pip  
 pip3 install mediapipe --break-system-packages  
