@@ -19,3 +19,6 @@ pip install mediapipe opencv-python scikit-learn matplotlib pandas
   
 #### 跌倒判斷訓練資料(kaggle)  
 https://www.kaggle.com/datasets/uttejkumarkandagatla/fall-detection-dataset?resource=download  
+
+#### mediapipe
+https://github.com/google-ai-edge/mediapipe?tab=readme-ov-file
